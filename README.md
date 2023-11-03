@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cristóbal Cenalmor</h1>
 <h3 align="center">A passionate frontend developer from Ferrol, Spain</h3>
 
-- 🔭 I’m currently working on **ArtabroTech SL**
+- 🔭 I’m currently working on **BALIDEA SL**
 
 - 🌱 I’m currently learning **React, ReactNative, PCAP**
 
